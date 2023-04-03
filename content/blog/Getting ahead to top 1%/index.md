@@ -1,7 +1,7 @@
 ---
 title: Getting ahead to top 1%
 date: "2023-03-02T22:40:32.169Z"
-description: A good guide to get to thebetter part of all!
+description: "A good guide to get to thebetter part of all!"
 ---
 
 

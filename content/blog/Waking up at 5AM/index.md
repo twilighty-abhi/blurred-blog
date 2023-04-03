@@ -1,7 +1,7 @@
 ---
 title: Waking up at 5AM
 date: "2023-02-21T22:40:32.169Z"
-description: a good tried way to rise up early and live good!
+description: "a good tried way to rise up early and live good!"
 ---
 
 
