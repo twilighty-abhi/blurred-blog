@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blurred Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Abhiram N J`,
+      summary: `Creates usefull/less stuff for others goodness.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to unblur your mind.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TwilightyAbhi`,
     },
   },
   plugins: [
